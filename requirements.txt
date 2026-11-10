@@ -1,0 +1,13 @@
+customtkinter
+pillow
+sounddevice
+vosk
+groq
+edge-tts
+pygame-ce
+numpy
+requests
+ddgs
+# Video version only (also needs the VLC app and Deno installed)
+python-vlc
+yt-dlp[default]

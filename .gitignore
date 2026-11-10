@@ -1,0 +1,16 @@
+# Private: never upload
+groq_api_key.txt
+.env
+datalinks.json
+datalinks.json.*
+kooka_settings.json
+voice_blueprint.json
+
+# Large speech models (download separately, see README)
+model/
+model-spk/
+
+# Python / temporary files
+__pycache__/
+*.pyc
+*.tmp
